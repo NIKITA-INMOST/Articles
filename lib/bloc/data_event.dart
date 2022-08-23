@@ -1,0 +1,3 @@
+enum DataEvent{
+  getUsers
+}
